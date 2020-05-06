@@ -29,8 +29,8 @@ This was done throught sclicing the output such that we have the surrounding row
 
 ## Output:
 This is the output for a target at 110m moving at -20 m/s relative speed<br><br>
-![](pictures/1.PNG)
+![alt text](pictures/1.PNG)
 
-![](pictures/2.PNG)
+![alt text](pictures/2.PNG)
 
-![](pictures/3.PNG)
+![alt text](pictures/3.PNG)
