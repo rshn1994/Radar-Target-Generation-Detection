@@ -29,8 +29,8 @@ This was done throught sclicing the output such that we have the surrounding row
 
 ## Output:
 This is the output for a target at 110m moving at -20 m/s relative speed<br><br>
-![alt text](https://github.com/rshn1994/Radar-Target-Generation-Detection/blob/master/pictures/img01.PNG)
+![alt text](https://github.com/rshn1994/Radar-Target-Generation-Detection/blob/master/pictures/img01.png)
 
-![alt text](https://github.com/rshn1994/Radar-Target-Generation-Detection/blob/master/pictures/img02.PNG)
+![alt text](https://github.com/rshn1994/Radar-Target-Generation-Detection/blob/master/pictures/img02.png)
 
-![alt text](https://github.com/rshn1994/Radar-Target-Generation-Detection/blob/master/pictures/img03.PNG)
+![alt text](https://github.com/rshn1994/Radar-Target-Generation-Detection/blob/master/pictures/img03.png)
